@@ -59,7 +59,7 @@ git clone https://github.com/amirsohail100/Question-Intent-Classification-using-
 ````
 
 ```bash
-cd AI-Fake-News-Detector
+cd Question-Intent-Classification-using-Stacked-Bidirectional-GRU
 ```
 
 ```bash
