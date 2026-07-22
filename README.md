@@ -63,10 +63,6 @@ cd Question-Intent-Classification-using-Stacked-Bidirectional-GRU
 ```
 
 ```bash
-streamlit run app.py
-```
-
-```bash
 python install -r requirements.txt
 ```
 
