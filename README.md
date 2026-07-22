@@ -42,14 +42,14 @@ model = Sequential([
 
 To run this application properly, ensure the following pipeline files are present in your project directory:
 
-- `model_ann.h5` (Trained ANN Model)
+- `model.h5` (Trained ANN Model)
 - `tokenizer.pkl` (Tokenizer file)
 - `columns.pkl` (Data preprocessing layout)
 
 ## 🚀 Getting Started
 
 1. Clone this repository.
-2. Place the required pipeline files (`model_ann.h5`, `tokenizer.pkl`, `columns.pkl`) in the root directory.
+2. Place the required pipeline files (`model.h5`, `tokenizer.pkl`, `columns.pkl`) in the root directory.
 3. Run the application script to start the local server.
 
 ## Cloud Deployment
