@@ -1,2 +1,3 @@
 # SMS-Spam-Detection-using-Stacked-Bidirectional-LSTM
-Built a high-precision SMS Spam Classifier using Stacked Bidirectional LSTMs (64 &amp; 32 units) with Dropout layers. Tokenized text sequences are mapped via Word Embeddings to capture bidirectional context. Achieved 98.36% Validation Accuracy and 100% Training Accuracy using TensorFlow/Keras. 📱⚡
+
+Question Intent Classifier using Bidirectional GRU 🚀 Built an NLP model to classify user questions into intent/category classes. Powered by a Stacked Bidirectional GRU architecture (128 & 64 units) with Dropout layers (0.3/0.2) to capture sequence context in both directions while preventing overfitting. Built with TensorFlow/Keras. 🎯
