@@ -37,4 +37,45 @@ model = Sequential([
 ])
 ```
 
+````
+## 📦 Required Pipeline Files
+
+To run this application properly, ensure the following pipeline files are present in your project directory:
+
+- `model_ann.h5` (Trained ANN Model)
+- `tokenizer.pkl` (Tokenizer file)
+- `columns.pkl` (Data preprocessing layout)
+
+## 🚀 Getting Started
+
+1. Clone this repository.
+2. Place the required pipeline files (`model_ann.h5`, `tokenizer.pkl`, `columns.pkl`) in the root directory.
+3. Run the application script to start the local server.
+
+## Cloud Deployment
+
+```bash
+git clone https://github.com/amirsohail100/AI-Fake-News-Detector.git
+````
+
+```bash
+cd AI-Fake-News-Detector
+```
+
+```bash
+streamlit run app.py
+```
+
+```bash
+python install -r requirements.txt
+```
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📝 Author
+
+👤 **Amir Sohail**
+
 Question Intent Classifier using Bidirectional GRU 🚀 Built an NLP model to classify user questions into intent/category classes. Powered by a Stacked Bidirectional GRU architecture (128 & 64 units) with Dropout layers (0.3/0.2) to capture sequence context in both directions while preventing overfitting. Built with TensorFlow/Keras. 🎯
