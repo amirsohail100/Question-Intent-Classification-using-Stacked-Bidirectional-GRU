@@ -55,7 +55,7 @@ To run this application properly, ensure the following pipeline files are presen
 ## Cloud Deployment
 
 ```bash
-git clone https://github.com/amirsohail100/AI-Fake-News-Detector.git
+git clone https://github.com/amirsohail100/Question-Intent-Classification-using-Stacked-Bidirectional-GRU.git
 ````
 
 ```bash
